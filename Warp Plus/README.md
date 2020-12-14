@@ -33,9 +33,6 @@ python3 warp-plus.py
 notice: You can find your user-id in the `1.1.1.1 App` settings in the Diagnostics menu.
 If there wasn't `user-id`, first enable WARP mode and then try again.
 
-
-[![Run on Repl.it](https://repl.it/badge/github/samimifar/warp-plus)](https://warp-plus.samimifar.repl.run)
-
 ## Thanks :heart:‍ 
 
 * [Samimifar](https://github.com/samimifar/warp-plus)

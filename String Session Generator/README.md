@@ -5,9 +5,6 @@
 
 > ##  String Session Generator Exclusively for Bot Developers
 
-## Demo
-[Run on Repl.it](https://warp-plus.proogrammer.repl.run/)
-
 ## Make Your Own Session Generator
 
 1) Create a new account in https://repl.it/
